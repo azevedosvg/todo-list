@@ -6,7 +6,7 @@ Aplicação de lista de tarefas desenvolvida com **React + Vite**, com foco em a
 
 ## 🚀 Deploy
 
-👉 https://seu-link-aqui.vercel.app
+👉 https://todo-list-git-main-azevedosvgs-projects.vercel.app/
 
 ---
 
