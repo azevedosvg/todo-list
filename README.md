@@ -12,7 +12,8 @@ Aplicação de lista de tarefas desenvolvida com **React + Vite**, com foco em a
 
 ## 📸 Preview
 
-![Preview do projeto](./assets/preview.png)
+![Preview do projeto](src/assets/previewlightmode.png)
+![Preview do projeto](src/assets/previewdarkmode.png)
 
 ---
 
